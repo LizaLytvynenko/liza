@@ -1,0 +1,10 @@
+.container {
+  margin: 30px;
+
+  border: 1px solid green;
+  padding: 40 30 40 30 px;
+  border-radius: 30px;
+}
+p {
+  font-size: 20px;
+}
